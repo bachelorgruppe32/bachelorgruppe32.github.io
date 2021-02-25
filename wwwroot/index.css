@@ -74,7 +74,6 @@ h1, h2 {
 
 .fa-facebook {
     color: #F0F8FF;
-    font-color: #000000;
     font-size: 25px;
     margin-right: 8px;
 }
@@ -94,11 +93,6 @@ h1, h2 {
     color: #F0F8FF;
     font-size: 25px;
     margin-right: 8px;
-}
-
-.social a {
-    font-size: 4.5em;
-    padding: 3rem;
 }
 
 p {
