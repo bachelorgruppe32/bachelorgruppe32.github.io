@@ -63,12 +63,13 @@ h1, h2 {
 }
 
 .fa {
-    font-size: 25px;
     color: #6495ED;
+    font-size: 26px;
 }
 
 .fab {
     color: #6495ED;
+    font-size: 25px;
 }
 
 .fa-facebook {
@@ -84,6 +85,10 @@ h1, h2 {
     margin-right: 8px;
 }
 
+.fab fa-github-square {
+    font-size: 25px;
+    color: #6495ED;
+}
 
 .fa-phone, .fa-envelope {
     color: #F0F8FF;
